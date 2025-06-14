@@ -1,3 +1,5 @@
-def fun1: 
-   return 'hello';
-fun1();
+a=5
+if a%2==0:
+    print("EVEN") 
+else:
+    print("odd")
